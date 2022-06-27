@@ -1036,6 +1036,8 @@ background-image: linear-gradient(180deg, #A9C9FF 0%, #FFBBEC 100%);
 #about-dmit {
     background-color: #dbeff0;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding-top:4rem;
+    padding-bottom:4rem;
 }
 
 #profit {
